@@ -2,9 +2,9 @@
 <H1 aligh ="center">Hi there, I am Prajwal Acharya, a student and a tech enthusiast.😄</h1>
 
  I’m currently learning Django <br>
- 📫 <u>Find me here</u> <br>
+ 📫 <u>Find me here</u>
 
-<a href ="https://twitter.com/acharya_prajwa1"></i><img src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1659460797~hmac=f4bd45f8cf9bb7aa27b4e529cae82994" width="25px" height="25px"></a><br>
+<a href ="https://twitter.com/acharya_prajwa1"></i><img src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1659460797~hmac=f4bd45f8cf9bb7aa27b4e529cae82994" width="25px" height="25px"></a>
 <a href ="https://discordapp.com/users/846370185695068190"></i><img src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670157.png?token=exp=1659460185~hmac=ab9884e02f7df38907025055acfce0b3" width="25px" height="25px"></a><br>
  ⚡ Also visit: <a href ="https://www.pacharya.com.np">pacharya.com</a>
 
