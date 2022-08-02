@@ -1,4 +1,4 @@
-<center>![](https://komarev.com/ghpvc/?username=meprajwal&color=green&style=plastic&label=Profile+Viwes)</center>
+![](https://komarev.com/ghpvc/?username=meprajwal&color=green&style=plastic&label=Profile+Viwes)
 <H1 aligh ="center">Hi there, I am Prajwal Acharya, a student and a tech enthusiast.😄</h1>
 - 😄 I’m currently learning Django <br>
 - 📫 Reach me here: <br>
