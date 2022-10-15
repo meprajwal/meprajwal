@@ -1,9 +1,5 @@
 <h1 align="center">Hi👋 there, I'm Prajwal</h1>
 <h3 align="center">a student and a tech enthusiast.😄</h3>
-<br>
-Let the snake eat my contributions.
-![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meprajwal&label=Profile%20views&color=0e75b6&style=flat" alt="meprajwal" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meprajwal" alt="meprajwal" /></a> </p>
