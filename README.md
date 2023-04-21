@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discordapp.com/users/846370185695068190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/846370185695068190" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/846370185695068190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/535362945002242050" height="30" width="40" /></a>
 <a href="https://dev.to/prajjwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prajjwal" height="30" width="40" /></a>
 <a href="https://twitter.com/acharya_prajwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acharya_prajwa1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19703826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19703826" height="30" width="40" /></a>
