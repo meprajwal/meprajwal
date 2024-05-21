@@ -17,7 +17,7 @@
 
 <br>
 <h3 align="center">Support me:</h3>
-<p align ="center"><a href="https://www.buymeacoffee.com/prajwall"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prajwall" /></a></p><br>
+<p align ="center"><a href="https://www.buymeacoffee.com/meprajwal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prajwall" /></a></p><br>
 
 <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meprajwal&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="meprajwal" /></p>
 
